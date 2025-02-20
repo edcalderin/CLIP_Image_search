@@ -1,9 +1,9 @@
 import logging
-import pickle
 from pathlib import Path
 from typing import Any
 
 import clip
+import joblib
 import torch
 from PIL import Image
 from torch.utils.data import DataLoader, Dataset
@@ -75,7 +75,7 @@ class EmbeddingGenerator:
 
         logging.info("Saving image embeddings")
         with open("embeddings.pkl", "wb") as f:
-            pickle.dump(image_embeddings, f)
+            joblib.dump(image_embeddings, f)
 
 
 if __name__ == "__main__":
