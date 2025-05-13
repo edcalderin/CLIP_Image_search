@@ -3,7 +3,7 @@
 It consists on an image searcher based on user input. The applications is able to search for images that match the query. The resulting images will be shown in rank order, with the ranking calculated using the cosine similarity.
 
 **Video:**  
-[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi_webp/owXqDU_kKsc/mq2.webp?sqp=CJC_3b0G-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFUgWyhlMA8=&rs=AOn4CLBFlgn79DAshL8W1hnKCTJxHXJB_A)](https://youtu.be/owXqDU_kKsc)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/owXqDU_kKsc/hqdefault.jpg)](https://youtu.be/owXqDU_kKsc)
 
 
 ## Setup
