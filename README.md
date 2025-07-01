@@ -37,3 +37,8 @@ Ruff commands:
 
 * ```ruff format .```
 * ```ruff check . --fix```
+
+## Enjoyed this content?
+Explore more of my work on [Medium](https://medium.com/@erickcalderin) 
+
+I regularly share insights, tutorials, and reflections on tech, AI, and more. Your feedback and thoughts are always welcome!
